@@ -29,4 +29,4 @@ See [STYLE.md](STYLE.md) for the full editorial contract.
 
 ## Status
 
-Early. Research synthesis for all five victory conditions is done — see `research/`. Structure (a continuous book vs. a short forceful core plus deeper backing material) and final title are still open. Chapter drafting starts from here.
+Early. Research synthesis for all five victory conditions is done — see `research/`. Structure is decided: one continuous narrative, not a short core plus separate backing material (see [OUTLINE.md](OUTLINE.md)). Final title is still open. Chapter drafting starts from here.

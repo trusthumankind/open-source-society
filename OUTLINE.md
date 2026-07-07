@@ -1,11 +1,10 @@
 # Outline
 
-**Structure is not yet decided.** Two options on the table:
+**Structure: continuous book** (decided 2026-07-07). One narrative arc, mirroring *Christianity Reconstructed*'s 24-hour structure — not a short core plus separate backing material. Reasoning: readers who get hooked by urgency shouldn't have to dig through reference material at the end to get the payoff; bestsellers hook through one narrative that evolves, not through a split between the exciting part and the homework part.
 
-- **Continuous** — one narrative arc, mirroring *Christianity Reconstructed*'s 24-hour structure.
-- **Layered** — a short, forceful core (readable in a sitting) plus substantive backing material for readers who want the full depth. Proposed as a hedge against the "dense and clinical" failure mode this book is explicitly trying to avoid — more pages isn't automatically more urgent.
+**The dense/clinical risk this was originally meant to guard against is handled through pacing, not structure** — same as the first book: alternate urgency and blueprint material *within* each victory condition rather than segregating depth into an appendix. Each section should breathe between a human story and the research behind it, not front-load one and back-load the other.
 
-Everything below is organized by content, not by chapter number, until that's settled.
+Everything below is organized by content, not by final chapter number, until a full draft pass exists.
 
 ## Opening — the case that this is one problem, not five
 
@@ -33,6 +32,5 @@ The part no single existing source provides: the five conditions assembled into 
 ## Not yet resolved
 
 - Title (currently a placeholder from the original GoFundMe language)
-- Structure (continuous vs. layered)
 - Land trust component mentioned in the original GoFundMe — real active initiative or just framing language? Not yet investigated.
 - Relationship to `christianity-in-24-hours` issue #148
