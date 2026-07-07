@@ -31,6 +31,5 @@ The part no single existing source provides: the five conditions assembled into 
 
 ## Not yet resolved
 
-- Title (currently a placeholder from the original GoFundMe language)
 - Land trust component mentioned in the original GoFundMe — real active initiative or just framing language? Not yet investigated.
 - Relationship to `christianity-in-24-hours` issue #148

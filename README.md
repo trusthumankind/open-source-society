@@ -1,8 +1,6 @@
-# Open Source Society: By Humankind, For Humankind
+# The Open World: By Humankind, For Humankind
 
-*(working title — not yet finalized)*
-
-This book exists to make good on a promise from the original [Open Source Society GoFundMe](https://www.gofundme.com/f/open-source-society): a blueprint for a coordinated, equitable path forward for humanity — for anyone who wants to act on the brokenness of the world, regardless of faith.
+This book exists to make good on a promise from the original [Open Source Society GoFundMe](https://www.gofundme.com/f/open-source-society): a blueprint for a coordinated, equitable path forward for humanity — for anyone who wants to act on the brokenness of the world, regardless of faith. The title evolved from the fundraiser's own name — same promise, without the tech-jargon and Soros-namesake baggage "open source society" carries as a book title.
 
 Its companion, [*Christianity Reconstructed in 24 Hours*](https://github.com/trusthumankind/christianity-in-24-hours), makes the same underlying case through a Christian lens, ending with an on-ramp to this mission. This book is the other door — no theology required, straight to the problems and the roadmap.
 
@@ -29,4 +27,4 @@ See [STYLE.md](STYLE.md) for the full editorial contract.
 
 ## Status
 
-Early. Research synthesis for all five victory conditions is done — see `research/`. Structure is decided: one continuous narrative, not a short core plus separate backing material (see [OUTLINE.md](OUTLINE.md)). Final title is still open. Chapter drafting starts from here.
+Early. Research synthesis for all five victory conditions is done — see `research/`. Structure is decided: one continuous narrative, not a short core plus separate backing material (see [OUTLINE.md](OUTLINE.md)). Title is decided. Chapter drafting starts from here.
