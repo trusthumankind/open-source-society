@@ -10,6 +10,8 @@ Except Europeans don't move like that. In any given year, about 0.3% of the EU's
 
 This is not a story about currency policy. It's a story about what happens when you solve one piece of an interlocking system and leave the rest in place.
 
+It's also not a lesson Europe needed to learn the hard way — its own founders had already written it down, sixty years earlier. In 1950, French foreign minister Robert Schuman proposed pooling French and German coal and steel production, the industrial base both countries had just spent a second world war trying to destroy in each other. He wasn't pitching an efficiency gain. The declaration says plainly that the goal was to make war between France and Germany "not merely unthinkable, but materially impossible." Economic integration was the mechanism. Preventing a third catastrophic war on the same continent, in the same lifetime, was the mission — stated first, before a single policy detail. The euro, sixty years later, got the order backward: a currency union pursued as a policy win in its own right, with the mission that was supposed to justify it — genuinely free movement of people, the thing that would have let it work — left for later. Later never came, and Greece paid for it in a decade of double-digit unemployment.
+
 ---
 
 That's the argument of this book, and it's worth stating plainly before anything else: the five conditions this book covers — open borders, a shared currency, food security, housing security, education without gatekeepers — are not five separate problems competing for your attention and your outrage. They are five faces of a single, connected system, and treating them as a checklist to work through one at a time is exactly the mistake the Eurozone made with just two of them.
@@ -21,3 +23,5 @@ You can see the compounding directly in two of this book's own five conditions. 
 That gap — the space between five bodies of serious, credible, uncoordinated research that never talk to each other — is where this book lives. Not inventing new economics. Not new politics. The work is connection: taking five real, rigorous, already-serious answers to five real questions, and doing the thing none of their authors set out to do, which is showing that they were never five questions in the first place.
 
 The Eurozone learned this the hard way, with one condition out of five, and spent a decade paying for it. The rest of this book is the case for learning it on purpose, with all five, before the cost gets paid again.
+
+Sources: [The Schuman Declaration, 9 May 1950](https://european-union.europa.eu/principles-countries-history/history-eu/1945-59/schuman-declaration-may-1950_en); Olivier De Schutter's "A Roadmap for Eradicating Poverty Beyond Growth" (UN Human Rights Council, 2026); UN Sustainable Development Goals 2025 progress report; see `research/victory-conditions.md` for full sourcing on the open-borders/food-security research gap.
