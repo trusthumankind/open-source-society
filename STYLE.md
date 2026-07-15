@@ -27,3 +27,7 @@ Same rigor as *Christianity Reconstructed*'s ESV references — real sourcing an
 ## Honesty About Gaps
 
 Where the existing research is thin (currency, education — see `research/victory-conditions.md`), say so directly instead of papering over it with confident-sounding prose. A reader who catches an overclaim on one condition will distrust all five.
+
+## No LLM Idioms
+
+Avoid stock phrasing that reads as AI-generated rather than authored: "worth sitting with," "it's worth noting," and similar hedge-and-pause constructions. Flagged directly by Marty (2026-07-13) on PR #3. Say the thing directly instead of gesturing at how the reader should feel about it.
