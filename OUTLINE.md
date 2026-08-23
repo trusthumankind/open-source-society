@@ -4,7 +4,7 @@
 
 **The dense/clinical risk this was originally meant to guard against is handled through pacing, not structure** — same as the first book: alternate urgency and blueprint material *within* each victory condition rather than segregating depth into an appendix. Each section should breathe between a human story and the research behind it, not front-load one and back-load the other.
 
-Everything below is organized by content, not by final chapter number, until a full draft pass exists.
+**Status: full first draft complete** (all PRs merged as of 2026-08-13) — Opening, all five victory-condition sections, and the Closing/roadmap are live on `main`. Everything below is organized by content, not by final chapter number; a second-draft/revision pass is the next phase, not yet scoped.
 
 ## Opening — the case that this is one problem, not five
 
@@ -22,14 +22,13 @@ For each of the five victory conditions:
 
 Each section carries two distinct jobs (see [STYLE.md](STYLE.md)):
 
-- **Urgency** — narrative retelling of the most compelling real human stories and documented cases. Not written yet.
-- **Blueprint** — synthesis of existing serious research into what this book adds. Research complete for all five; see `research/victory-conditions.md`. Sections 2 (currency) and 5 (education) have real, flagged gaps — thinnest existing research, no strong real-world case surfaced. These need dedicated attention before those sections can carry their full weight.
+- **Urgency** — narrative retelling of the most compelling real human stories and documented cases. Drafted for all five sections.
+- **Blueprint** — synthesis of existing serious research into what this book adds. Research complete for all five; see `research/victory-conditions.md`. Sections 2 (currency) and 5 (education) have real, flagged gaps — thinnest existing research, no strong real-world case surfaced. Both are drafted and honest about the gap rather than papering over it; still the two sections most likely to need dedicated attention in a revision pass.
 
 ## Closing — the roadmap itself
 
-The part no single existing source provides: the five conditions assembled into one coherent, sequenced roadmap. Key synthesis finding already surfaced in research: the conditions likely have a real dependency order (e.g., open borders probably needs to substantially precede a shared currency — the Eurozone is the cautionary tale for skipping that order). This section is the book's actual differentiator and hasn't been drafted.
+The part no single existing source provides: the five conditions assembled into one coherent, sequenced roadmap. Key synthesis finding already surfaced in research: the conditions likely have a real dependency order (e.g., open borders probably needs to substantially precede a shared currency — the Eurozone is the cautionary tale for skipping that order). This section is the book's actual differentiator, and the drafted version sequences all five: open borders first, currency second, housing on a mostly separate track gated by state capacity, education last because the research to sequence it doesn't exist yet.
 
 ## Not yet resolved
 
-- Land trust component mentioned in the original GoFundMe — real active initiative or just framing language? Not yet investigated.
-- Relationship to `christianity-in-24-hours` issue #148
+- Second-draft/revision-pass scope — not yet raised by Marty since the "continue iterating" signal on 2026-08-13.
