@@ -4,7 +4,7 @@
 
 **The dense/clinical risk this was originally meant to guard against is handled through pacing, not structure** — same as the first book: alternate urgency and blueprint material *within* each victory condition rather than segregating depth into an appendix. Each section should breathe between a human story and the research behind it, not front-load one and back-load the other.
 
-**Status: full first draft complete** (all PRs merged as of 2026-08-13) — Opening, all five victory-condition sections, and the Closing/roadmap are live on `main`. Everything below is organized by content, not by final chapter number; a second-draft/revision pass is the next phase, not yet scoped.
+**Status: full first draft complete** (all PRs merged as of 2026-08-13) — Opening, all five victory-condition sections, and the Closing/roadmap are live on `main`. Everything below is organized by content, not by final chapter number. **Revision pass underway as of 2026-08-27** — Marty confirmed (2026-08-26) direct authority to iterate on content toward the book's stated end goal, no longer needing a per-item go-ahead; still PR-based, not self-merge.
 
 ## Opening — the case that this is one problem, not five
 
@@ -23,7 +23,7 @@ For each of the five victory conditions:
 Each section carries two distinct jobs (see [STYLE.md](STYLE.md)):
 
 - **Urgency** — narrative retelling of the most compelling real human stories and documented cases. Drafted for all five sections.
-- **Blueprint** — synthesis of existing serious research into what this book adds. Research complete for all five; see `research/victory-conditions.md`. Sections 2 (currency) and 5 (education) have real, flagged gaps — thinnest existing research, no strong real-world case surfaced. Both are drafted and honest about the gap rather than papering over it; still the two sections most likely to need dedicated attention in a revision pass.
+- **Blueprint** — synthesis of existing serious research into what this book adds. Research complete for all five; see `research/victory-conditions.md`. Sections 2 (currency) and 5 (education) had real, flagged gaps — thinnest existing research, no strong real-world case surfaced. Currency's gap now has dedicated treatment: `manuscript/02b-the-friction-underneath.md` (real precedent found — the Benelux-Baltic recognition treaty — with the same honesty about its limited scale). Education's gap is being treated as structural, not just unwritten — two independent research passes already went looking for a clean case and both fell apart under actual outcome data; forcing a resolution into existence would violate the book's own no-fabrication rule, so it's staying an honest open gap rather than something to keep iterating on.
 
 ## Closing — the roadmap itself
 
@@ -31,4 +31,4 @@ The part no single existing source provides: the five conditions assembled into 
 
 ## Not yet resolved
 
-- Second-draft/revision-pass scope — not yet raised by Marty since the "continue iterating" signal on 2026-08-13.
+- Whether `manuscript/02b-the-friction-underneath.md` belongs as a standalone section (current approach — deliberately not counted as a sixth victory condition, since it's a coda to Currency's own forward-pointer, not a new one of the five) or should eventually be folded back into `02-one-currency.md` itself. Left as its own file for now since the book's own July 2026 decision was that this content specifically didn't belong mid-chapter.
