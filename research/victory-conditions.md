@@ -44,4 +44,4 @@ UN Special Rapporteur on extreme poverty Olivier De Schutter spent 18 months bui
 
 NBER (Kennan w18307), openborders.info (double-GDP + low-end estimates), Annual Reviews (Dustmann & Preston migration economics), ScienceDirect (epidemiological-case paper), equalright.org (global basic income), Housing First Europe/Finland, UN SDG 2030 Agenda + 2025 progress report, NEEP/De Schutter poverty roadmap, OHCHR, NCBI/PMC hunger-SDG2 projections, WHO hunger report, plus follow-up research on Bancor/SDR/global-currency feasibility and Eurozone/OCA theory.
 
-Full detail and citation links: see Cora's working memory file `project_open_source_society.md` (not part of this repo) until this is migrated fully into the book's own reference material.
+Full detail and citation links: tracked in a separate working notes file (not part of this repo) until this is migrated fully into the book's own reference material.

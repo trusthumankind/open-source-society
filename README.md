@@ -27,4 +27,4 @@ See [STYLE.md](STYLE.md) for the full editorial contract.
 
 ## Status
 
-Full first draft complete (2026-08-13) — Opening, all five victory-condition sections, and the Closing/roadmap are live on `main`. Structure is decided: one continuous narrative, not a short core plus separate backing material (see [OUTLINE.md](OUTLINE.md)). Title is decided. Next phase is a second-draft/revision pass, not yet scoped.
+Full first draft complete (2026-08-13) — Opening, all five victory-condition sections, and the Closing/roadmap are live on `main`. Structure is decided: one continuous narrative, not a short core plus separate backing material (see [OUTLINE.md](OUTLINE.md)). Title is decided. A revision pass is underway as of 2026-08-27, PR-based, not self-merge.
