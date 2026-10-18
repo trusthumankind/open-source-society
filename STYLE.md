@@ -31,3 +31,7 @@ Where the existing research is thin (currency, education — see `research/victo
 ## No LLM Idioms
 
 Avoid stock phrasing that reads as AI-generated rather than authored: "worth sitting with," "it's worth noting," and similar hedge-and-pause constructions. Flagged directly by Marty (2026-07-13) on PR #3. Say the thing directly instead of gesturing at how the reader should feel about it.
+
+## No Cross-Chapter Self-Reference
+
+A chapter's prose body should not comment on or reference other chapters by name ("the Currency chapter already traced...", "as Housing showed..."). Flagged directly by Marty (2026-08-11) on PR #4: "Stylistically, for this book, let's avoid self-references" — a whole-book rule, not scoped to one PR. Each chapter should stand on its own for the reader; bibliographic mentions of other chapters in a sources line are fine, prose-body cross-commentary is not. Closing is the one explicit exception — cross-referencing all five sections is its actual job.
